@@ -6,7 +6,7 @@ export default () => {
     domain: 'twilson63.auth0.com',
     clientID: 'Md9dDbtYtwPTApEw0LP5WKZbTzgGdbyS',
     redirectUri: 'http://localhost:4000/callback',
-    audience: 'https://twilson63.auth0.com/userinfo',
+    audience: 'https://test-api.com',
     responseType: 'token id_token',
     scope: 'openid'
   })

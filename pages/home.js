@@ -10,6 +10,7 @@ const Home = props => {
         <div>
           <h1>Welcome!</h1>
           <button onClick={e => props.logout()}>Logout</button>
+          <Link to="/protected">Protected</Link>
         </div>
       )}
     </div>

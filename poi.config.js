@@ -1,3 +1,1 @@
-module.exports = (options, req) => ({
-  jsx: 'react' 
-})
+module.exports = () => ({ jsx: 'react' })

@@ -11,5 +11,8 @@
   },
   "scripts": {
     "start": "poi"
+  },
+  "devDependencies": {
+    "poi-preset-react": "^9.2.0"
   }
 }
